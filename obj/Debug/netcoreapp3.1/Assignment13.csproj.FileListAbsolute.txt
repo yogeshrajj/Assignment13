@@ -148,3 +148,8 @@ H:\git\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.csproj.CopyComplete
 H:\git\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.dll
 H:\git\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.pdb
 H:\git\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.genruntimeconfig.cache
+H:\git\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+H:\git\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+H:\git\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+H:\git\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+H:\git\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
